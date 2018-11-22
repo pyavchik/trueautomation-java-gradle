@@ -15,5 +15,5 @@ You must have installed TrueAutomation client, JDK 8 or later.
 * Run test
 
 ```bash
-gradle build
+gradle test --tests exampleTest
 ```
