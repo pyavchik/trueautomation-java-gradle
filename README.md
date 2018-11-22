@@ -1,4 +1,4 @@
-# trueautomation-java-example
+# trueautomation-java-gradle
 
 You must have installed TrueAutomation client, JDK 8 or later.
 
